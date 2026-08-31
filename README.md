@@ -1,14 +1,10 @@
-# KurdNxt multilingual GitHub Pages site
+# KurdNxt GitHub Pages — flat multilingual build
 
-Languages:
-- German (default): `/`
-- English: `/en/`
-- Kurmancî: `/ku/`
+All files belong directly in the repository root. There are **no folders**.
 
-Upload the entire contents of this folder to the root of the `kurdnxt.github.io` repository. Keep the `en` and `ku` folders intact.
+- German home: `index.html`
+- English home: `index-en.html`
+- Kurmancî home: `index-ku.html`
+- Shared styling: `style.css`
 
-The DE | EN | KU language switcher keeps visitors on the corresponding page.
-
-Community form: Google Forms link is wired into all Join buttons.
-
-Legal notice/privacy pages remain drafts and must be completed before formal launch/data collection. German is treated as the canonical legal version.
+Upload all extracted files together to the root of `kurdnxt.github.io`.
