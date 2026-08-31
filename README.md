@@ -1,36 +1,14 @@
-# KurdNxt Website
+# KurdNxt multilingual GitHub Pages site
 
-A simple static website built for GitHub Pages.
+Languages:
+- German (default): `/`
+- English: `/en/`
+- Kurmancî: `/ku/`
 
-## Files
+Upload the entire contents of this folder to the root of the `kurdnxt.github.io` repository. Keep the `en` and `ku` folders intact.
 
-- `index.html` — page structure and copy
-- `style.css` — layout, colors, responsiveness and styling
-- `script.js` — mobile navigation and subtle reveal animations
+The DE | EN | KU language switcher keeps visitors on the corresponding page.
 
-## Publish with GitHub Pages
+Community form: Google Forms link is wired into all Join buttons.
 
-1. Create a GitHub repository.
-2. Upload all three website files to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)`.
-6. Save.
-
-If your repository is named `USERNAME.github.io`, the website will normally appear at:
-
-`https://USERNAME.github.io`
-
-If the repository is instead named `kurdnxt`, it will normally appear at:
-
-`https://USERNAME.github.io/kurdnxt/`
-
-## Before publishing
-
-Replace the placeholder email address in `index.html`:
-
-`hello@kurdnxt.org`
-
-with the contact email you actually want to use.
-
-You can also edit all text directly inside `index.html`.
+Legal notice/privacy pages remain drafts and must be completed before formal launch/data collection. German is treated as the canonical legal version.
